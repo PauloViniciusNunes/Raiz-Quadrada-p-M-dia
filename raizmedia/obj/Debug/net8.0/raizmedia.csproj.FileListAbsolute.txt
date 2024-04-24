@@ -1,0 +1,14 @@
+/home/paulov/Desktop/Projetos/raizmedia/bin/Debug/net8.0/raizmedia
+/home/paulov/Desktop/Projetos/raizmedia/bin/Debug/net8.0/raizmedia.deps.json
+/home/paulov/Desktop/Projetos/raizmedia/bin/Debug/net8.0/raizmedia.runtimeconfig.json
+/home/paulov/Desktop/Projetos/raizmedia/bin/Debug/net8.0/raizmedia.dll
+/home/paulov/Desktop/Projetos/raizmedia/bin/Debug/net8.0/raizmedia.pdb
+/home/paulov/Desktop/Projetos/raizmedia/obj/Debug/net8.0/raizmedia.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulov/Desktop/Projetos/raizmedia/obj/Debug/net8.0/raizmedia.AssemblyInfoInputs.cache
+/home/paulov/Desktop/Projetos/raizmedia/obj/Debug/net8.0/raizmedia.AssemblyInfo.cs
+/home/paulov/Desktop/Projetos/raizmedia/obj/Debug/net8.0/raizmedia.csproj.CoreCompileInputs.cache
+/home/paulov/Desktop/Projetos/raizmedia/obj/Debug/net8.0/raizmedia.dll
+/home/paulov/Desktop/Projetos/raizmedia/obj/Debug/net8.0/refint/raizmedia.dll
+/home/paulov/Desktop/Projetos/raizmedia/obj/Debug/net8.0/raizmedia.pdb
+/home/paulov/Desktop/Projetos/raizmedia/obj/Debug/net8.0/raizmedia.genruntimeconfig.cache
+/home/paulov/Desktop/Projetos/raizmedia/obj/Debug/net8.0/ref/raizmedia.dll
